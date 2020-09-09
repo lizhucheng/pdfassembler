@@ -1,5 +1,7 @@
-# PDF Assembler
+# to support node
+forked from [DevelopingMagic/pdfassembler(version: 0.1.0-beta.8)](https://github.com/DevelopingMagic/pdfassembler).
 
+# PDF Assembler
 [![npm version](https://img.shields.io/npm/v/pdfassembler.svg?style=plastic)](https://www.npmjs.com/package/pdfassembler) [![npm downloads](https://img.shields.io/npm/dm/pdfassembler.svg?style=plastic)](https://www.npmjs.com/package/pdfassembler) [![GitHub MIT License](https://img.shields.io/github/license/DevelopingMagic/pdfassembler.svg?style=social)](https://github.com/DevelopingMagic/pdfassembler)
 [![Dependencies](https://david-dm.org/DevelopingMagic/pdfassembler.svg)](https://david-dm.org/DevelopingMagic/pdfassembler) [![devDependencies](https://david-dm.org/DevelopingMagic/pdfassembler/dev-status.svg)](https://david-dm.org/DevelopingMagic/pdfassembler?type=dev)
 
